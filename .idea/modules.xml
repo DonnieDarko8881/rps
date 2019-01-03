@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/18422858/kodilla-exception.iml" filepath="$PROJECT_DIR$/.idea/modules/18422858/kodilla-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/18422858/kodilla-exception_main.iml" filepath="$PROJECT_DIR$/.idea/modules/18422858/kodilla-exception_main.iml" group="kodilla-exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/18422858/kodilla-exception_test.iml" filepath="$PROJECT_DIR$/.idea/modules/18422858/kodilla-exception_test.iml" group="kodilla-exception" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-rps.iml" filepath="$PROJECT_DIR$/kodilla-rps.iml" group="kodilla-rps" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-rps_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-rps_main.iml" group="kodilla-rps" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-rps_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-rps_test.iml" group="kodilla-rps" />
+    </modules>
+  </component>
+</project>
